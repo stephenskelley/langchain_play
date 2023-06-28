@@ -1,0 +1,15 @@
+jupyterlab
+jupyterlab_widgets
+langchain
+huggingface
+openai
+llama_index
+qdrant_client
+tiktoken
+ipywidgets
+pinecone-client
+torch
+transformers
+einops
+accelerate
+streamlit
