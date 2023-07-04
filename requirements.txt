@@ -13,3 +13,4 @@ transformers
 einops
 accelerate
 streamlit
+llama_hub
